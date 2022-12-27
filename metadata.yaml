@@ -1,0 +1,43 @@
+_repo: Excavations-at-the-LoDaisKa-Site-in-the-Denver-Colorado-area_69574
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Galinat, W. C.
+    gutenberg_agent_id: '55327'
+    url: http://www.gutenberg.org/2009/agents/55327
+  - agent_name: Hunt, C. R.
+    gutenberg_agent_id: '55328'
+    url: http://www.gutenberg.org/2009/agents/55328
+  - agent_name: Irwin, C. C.
+    gutenberg_agent_id: '55326'
+    url: http://www.gutenberg.org/2009/agents/55326
+  - agent_name: Irwin, H. J.
+    gutenberg_agent_id: '55325'
+    url: http://www.gutenberg.org/2009/agents/55325
+  - agent_name: Lewis, G. E.
+    gutenberg_agent_id: '55329'
+    url: http://www.gutenberg.org/2009/agents/55329
+  - agent_name: Rodden, R.
+    gutenberg_agent_id: '55335'
+    url: http://www.gutenberg.org/2009/agents/55335
+  - agent_name: Whitehead, D. R.
+    gutenberg_agent_id: '55336'
+    url: http://www.gutenberg.org/2009/agents/55336
+description: ''
+gutenberg_issued: '2022-12-18'
+identifiers:
+  gutenberg: '69574'
+language: en
+pgterms:marc905: 20200927071037irwin
+pgterms:marc906: '1959'
+pgterms:marc907: US
+production_note: WebRover, Stephen Hutcheson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: 'United States: Denver Museum of Natural History,1959.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Excavations at the LoDaisKa Site in the Denver, Colorado area
+url: http://www.gutenberg.org/ebooks/69574
